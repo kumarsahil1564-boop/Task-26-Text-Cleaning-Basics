@@ -1,0 +1,6 @@
+Column,Before,After,Cleaning_Action
+Customer_Name,  sahil kumar  ,Sahil Kumar,TRIM + Proper Case
+Customer_Name,neha  verma,Neha Verma,Normalize spaces + Proper Case
+Email,SAHIL.KUMAR@GMAIL.COM ,sahil.kumar@gmail.com,TRIM + lowercase
+City,GHAZIABAD ,Ghaziabad,TRIM + Proper Case
+Status, ACTIVE ,Active,TRIM + Proper Case

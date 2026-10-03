@@ -1,0 +1,11 @@
+Customer_ID,Customer_Name,Email,City,Status
+1,  sahil kumar  ,SAHIL.KUMAR@GMAIL.COM , delhi , active 
+2,PRIYA SHARMA, priya.sharma@gmail.com,MUMBAI,ACTIVE
+3,  rahul singh,RAHUL.SINGH@YAHOO.COM, noida,inactive 
+4,neha  verma, neha.verma@outlook.com ,GHAZIABAD , Active
+5,AMIT KUMAR , amit.kumar@gmail.com, delhi, ACTIVE 
+6, pooja gupta,POOJA.GUPTA@GMAIL.COM , mumbai ,inactive
+7,rohit  mehra , rohit.mehra@yahoo.com,NOIDA, active
+8,  anjali singh,ANJALI.SINGH@GMAIL.COM, ghaziabad,ACTIVE 
+9,VIKAS SHARMA, vikas.sharma@outlook.com ,DELHI , inactive 
+10,  komal joshi  ,KOMAL.JOSHI@GMAIL.COM, mumbai, Active 
